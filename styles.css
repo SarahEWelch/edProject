@@ -1,0 +1,42 @@
+.farm h1{
+	text-align: center;
+	font-size: 70px;
+	margin-top: 45%;
+	margin-left: 48%;
+	padding: 10px;
+	background-color: rgba(255, 255, 255, .65);
+	border-radius: 75px;
+	width: 100px;
+}
+.farm{
+	padding: 0px;
+}
+.col-xs-12{
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+}
+.container-fluid{
+	margin: 0px; 
+	padding: 0px;
+}
+.sectionOne{
+	background-image: url("./img/FarmerEd2.jpg");
+	background-repeat: no-repeat;
+	height: 900px;
+}
+.textbody{
+	text-align: center;
+	background-color: rgba(255, 255, 255);
+	margin: 3%;
+	color: #a81e1e;
+}
+.newtext{
+	text-align: center;
+}
+.surprise{
+	opacity: 0;
+}
+.surprise:hover{
+	opacity: 1;
+	}
